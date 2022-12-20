@@ -13,6 +13,7 @@ The program can be generalized to include a user defined scalar potential: by *e
 
 Similarly to the canonical single field case, we adopt a phenomenological background model that exhibit a transient/localized slow-roll violation during inflation where the sound speed $c_s$ , effective time dependent Planck Mass $M$  and $\epsilon$ are all engineered to have a localized simultaneous dip.
 
-The mode evolution is then determined by the generalized Mukhanov-Sasaki equation.
+The mode evolution in this case is determined by the generalized Mukhanov-Sasaki equation. Further details regarding the background and the mode evolution within the generalized single field models can be found in arXiv: [1811.03065](https://arxiv.org/abs/1811.03065) and XXXX.XXXXX 
 
-Details regarding the background and the mode evolution can be found in arXiv: [1811.03065](https://arxiv.org/abs/1811.03065) and XXXX.XXXXX 
+For any queries, please contact:
+[ogan.ozsoy@csic.es](ogan.ozsoy@csic.es)
