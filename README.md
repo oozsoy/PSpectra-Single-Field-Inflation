@@ -1,4 +1,4 @@
-## SFCanonical_Powerspec
+## SingleFieldINF_Powerspec
 
 This is pedagogical Jupyter notebook file that computes the power spectrum of curvature perturbation in canonical single field inflationary scenarios that include a transient phase of non-attractor era required for the amplification of the spectrum. 
 
