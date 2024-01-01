@@ -15,5 +15,5 @@ For the latter, similar to the canonical single field case, we adopt a phenomeno
 
 The mode evolution in this case is determined by the generalized Mukhanov-Sasaki equation. Further details regarding the background and the mode evolution within the generalized single field models can be found in arXiv: [1811.03065](https://arxiv.org/abs/1811.03065) and [2301.03600](https://arxiv.org/abs/2301.03600)
 
-For any queries, please contact:
+For any inquiries, please contact:
 [ogan.ozsoy@csic.es](ogan.ozsoy@csic.es)
