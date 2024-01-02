@@ -1,9 +1,9 @@
 ## SingleFieldINF_Powerspec
 
-We provide two seperate (pedagogical) Jupyter notebook files that compute the power spectrum of curvature perturbation,
+This repo contain two seperate (pedagogical) Jupyter notebook files that compute the power spectrum of curvature perturbation,
 
-- In canonical single field inflationary scenarios that include a transient phase of non-attractor era: *PowerSpec_CanonicalSF.ipynb*
-- In generalized single field inflationary models that exhibit an effective time dependent Planck mass along with a non-trivial sound speed for the scalar curvature fluctuations: *PowerSpec_GSF.ipynb*
+- In canonical single field inflationary scenarios that include a transient phase of non-attractor era: `PowerSpec_CanonicalSF.ipynb`
+- In generalized single field inflationary models that exhibit an effective time dependent Planck mass along with a non-trivial sound speed for the scalar curvature fluctuations: `PowerSpec_GSF.ipynb`
 
 For the former, an effective (but accurate) parametrization of the background evolution is adopted where inflationary evolution has been modeled in terms of successive phases of slow-roll --> non-attractor --> slow-roll: see arXiv: [2301.03600](https://arxiv.org/abs/2301.03600) for details. Around this background solution, we then solve the Mukhanov-Sasaki (MS) equation for each mode in Fourier space which is essential for the computing the power spectrum of scalar fluctuations during inflation. 
 
