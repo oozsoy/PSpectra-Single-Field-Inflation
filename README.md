@@ -1,4 +1,4 @@
-## SingleFieldINF_Powerspec
+## Single_Field_Inflation_Powerspec
 
 This repo contain two seperate (pedagogical) Jupyter notebook files that compute the power spectrum of curvature perturbation,
 
